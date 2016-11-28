@@ -1,0 +1,484 @@
+[2016/07/17 19:32:57][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/17 19:33:01][class java.lang.NumberFormatException]
+Message: For input string: "test"
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/17 19:33:07][class java.lang.NumberFormatException]
+Message: For input string: "fvsf"
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/18 11:19:20][class java.lang.NumberFormatException]
+Message: For input string: "(7*7)"
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/18 11:19:31][class java.lang.NumberFormatException]
+Message: For input string: "7*7"
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/18 15:02:07][class java.lang.ClassNotFoundException]
+Message: javax.swing.plaf.metal.MotifLookAndFeel
+Additional Info: There was an error while trying to set the look and feel of the application.
+
+[2016/07/18 15:02:39][class java.lang.ClassNotFoundException]
+Message: javax.swing.plaf.metal.MotifLookAndFeel
+Additional Info: There was an error while trying to set the look and feel of the application.
+
+[2016/07/22 09:42:04][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 09:42:15][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 10:28:59][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 10:50:06][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error attempting to get one of the values: host name; port number.
+
+[2016/07/22 10:51:36][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error attempting to get one of the values: host name; port number.
+
+[2016/07/22 10:53:53][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error attempting to get one of the values: host name; port number.
+
+[2016/07/22 10:54:02][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error attempting to get one of the values: host name; port number.
+
+[2016/07/22 10:54:05][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error attempting to get one of the values: host name; port number.
+
+[2016/07/22 10:54:27][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error attempting to get one of the values: host name; port number.
+
+[2016/07/22 10:54:33][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error attempting to get one of the values: host name; port number.
+
+[2016/07/22 10:55:10][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error attempting to get one of the values: host name; port number.
+
+[2016/07/22 11:18:43][class java.lang.NullPointerException]
+Message: Host name field is empty.
+Additional Info: Error attempting to get one of the values: host name; port number.
+
+[2016/07/22 11:18:52][class java.lang.NullPointerException]
+Message: Host name field is empty.
+Additional Info: Error attempting to get one of the values: host name; port number.
+
+[2016/07/22 11:20:22][class java.lang.NullPointerException]
+Message: Host name field is empty.
+Additional Info: Error attempting to get one of the values: host name; port number.
+
+[2016/07/22 12:22:11][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 12:40:15][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 12:40:17][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 12:41:13][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 12:41:17][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 14:56:42][class java.lang.NumberFormatException]
+Message: For input string: "wfe"
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 14:58:39][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 15:01:16][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 15:04:19][class java.lang.NumberFormatException]
+Message: For input string: "235635265t2"
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 15:04:21][class java.lang.NumberFormatException]
+Message: For input string: "235635265t2"
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 15:19:55][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error attempting to get one of the values: host name; port number.
+
+[2016/07/22 15:19:58][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error attempting to get one of the values: host name; port number.
+
+[2016/07/22 15:21:39][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 15:31:22][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 16:27:13][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 16:31:05][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 16:50:18][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 16:50:24][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 17:07:18][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 17:09:01][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 17:09:07][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 17:09:13][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 17:09:37][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 17:11:15][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 17:11:25][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 17:11:45][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 17:11:52][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 17:12:50][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 17:12:53][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 17:12:57][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 17:13:33][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 17:13:37][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 17:13:43][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 21:46:23][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 21:46:43][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 21:46:47][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/22 21:46:53][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/25 09:28:44][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/25 09:28:48][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/25 09:38:07][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/25 09:38:51][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/25 09:38:54][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/25 09:42:12][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/25 09:42:16][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/25 09:44:47][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/25 09:44:50][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/25 12:33:49][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/25 12:35:13][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/25 12:35:17][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/25 12:36:23][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/25 12:36:26][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/25 14:32:55][class java.lang.IndexOutOfBoundsException]
+Message: Index: -1, Size: 4
+Additional Info: Looks like there was an error
+
+[2016/07/25 14:32:55][class java.lang.IndexOutOfBoundsException]
+Message: Index: -1, Size: 3
+Additional Info: Looks like there was an error
+
+[2016/07/25 14:32:56][class java.lang.IndexOutOfBoundsException]
+Message: Index: -1, Size: 2
+Additional Info: Looks like there was an error
+
+[2016/07/25 14:32:56][class java.lang.IndexOutOfBoundsException]
+Message: Index: -1, Size: 1
+Additional Info: Looks like there was an error
+
+[2016/07/27 11:48:05][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/27 19:00:29][class java.lang.NumberFormatException]
+Message: For input string: "45t35"
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/07/29 16:35:39][class java.lang.IllegalArgumentException]
+Message: Illegal pattern character 'A'
+Additional Info: Looks like there was an error
+
+[2016/07/30 00:32:30][class java.lang.ClassCastException]
+Message: javax.swing.JFrame cannot be cast to arithmeticchallengegame.chart
+Additional Info: Looks like there was an error
+
+[2016/08/02 09:03:48][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/08/05 11:38:50][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error attempting to get one of the values: host name; port number.
+
+[2016/08/05 11:39:16][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error attempting to get one of the values: host name; port number.
+
+[2016/08/05 11:41:53][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error attempting to get one of the values: host name; port number.
+
+[2016/08/05 11:42:02][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error attempting to get one of the values: host name; port number.
+
+[2016/08/05 11:42:12][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error attempting to get one of the values: host name; port number.
+
+[2016/08/05 11:42:49][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error attempting to get one of the values: host name; port number.
+
+[2016/08/05 11:43:02][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error attempting to get one of the values: host name; port number.
+
+[2016/08/05 12:12:29][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/08/05 12:14:01][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/08/05 12:15:12][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/08/05 12:15:23][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/08/05 12:15:46][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/08/05 12:16:02][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/08/05 12:27:12][class java.lang.NumberFormatException]
+Message: empty String
+Additional Info: Error. Please ensure that the required fields are not empty and that the fields only contain valid characters.
+
+[2016/08/05 14:23:08][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error attempting to get one of the values: host name; port number.
+
+[2016/08/05 14:29:18][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error attempting to get one of the values: host name; port number.
+
+[2016/08/05 15:43:18][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error trying to call radio button event.
+
+[2016/08/05 15:43:19][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error trying to call radio button event.
+
+[2016/08/05 15:43:19][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error trying to call radio button event.
+
+[2016/08/05 15:43:20][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error trying to call radio button event.
+
+[2016/08/05 15:43:20][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error trying to call radio button event.
+
+[2016/08/05 15:43:21][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error trying to call radio button event.
+
+[2016/08/05 15:43:21][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error trying to call radio button event.
+
+[2016/08/05 15:43:21][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error trying to call radio button event.
+
+[2016/08/05 15:43:21][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error trying to call radio button event.
+
+[2016/08/05 15:43:25][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error trying to call radio button event.
+
+[2016/08/05 15:43:25][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error trying to call radio button event.
+
+[2016/08/05 15:43:25][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error trying to call radio button event.
+
+[2016/08/05 15:43:25][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error trying to call radio button event.
+
+[2016/08/05 15:43:26][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error trying to call radio button event.
+
+[2016/08/05 15:43:26][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error trying to call radio button event.
+
+[2016/08/05 15:43:30][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error trying to call radio button event.
+
+[2016/08/05 15:43:30][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error trying to call radio button event.
+
+[2016/08/05 15:43:31][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error trying to call radio button event.
+
+[2016/08/05 15:43:31][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error trying to call radio button event.
+
+[2016/08/05 15:52:13][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error trying to call radio button event.
+
+[2016/08/05 15:54:39][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error trying to call radio button event.
+
+[2016/08/05 15:54:39][class java.lang.NullPointerException]
+Message: null
+Additional Info: Error trying to call radio button event.
+
+[2016/08/05 16:13:59][class java.lang.ArrayIndexOutOfBoundsException]
+Message: -5
+Additional Info: Error generating line chart.
+
+[2016/08/05 16:15:14][class java.lang.ArrayIndexOutOfBoundsException]
+Message: null
+Additional Info: Error generating line chart.
+

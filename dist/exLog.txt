@@ -1,0 +1,4 @@
+[2016/11/28 18:39:43][class java.io.FileNotFoundException]
+Message: ArithmeticLog.txt (The system cannot find the file specified)
+Additional Info: Error importing arithmetic log.
+
