@@ -5,4 +5,4 @@ This program is a simple network-based game where a teacher can send an equation
 
 It has some weird code in there to simply meet the criteria of the assignment, however some things were removed before uploading.
 
-![Sample Screenshot](https://raw.githubusercontent.com/DanielField/TAFE-Assignment-ArithmeticChallengeGame/master/scr.png)
+![Sample Screenshot](https://raw.githubusercontent.com/DanielField/TAFE-Assignment-ArithmeticChallengeGame/master/scr.PNG)
